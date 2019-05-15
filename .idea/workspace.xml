@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="776bc713-59e0-4b95-b739-b14567b9148f" name="Default Changelist" comment="" />
+    <list default="true" id="776bc713-59e0-4b95-b739-b14567b9148f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="215">
-              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
               <folding>
                 <element signature="e#81#82#0" expanded="true" />
                 <element signature="e#105#106#0" expanded="true" />
@@ -253,7 +255,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556731457857</updated>
       <workItem from="1556731461930" duration="1964000" />
-      <workItem from="1557911623719" duration="4995000" />
+      <workItem from="1557911623719" duration="5112000" />
     </task>
     <servers />
   </component>
@@ -269,7 +271,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6959000" />
+    <option name="totallyTimeSpent" value="7076000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="20" width="1278" height="728" extended-state="0" />
@@ -376,7 +378,7 @@
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding>
             <element signature="e#81#82#0" expanded="true" />
             <element signature="e#105#106#0" expanded="true" />
